@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80648292475",
+    "project_id": "riser-7cf5b",
+    "storage_bucket": "riser-7cf5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80648292475:android:75b398accf919fb9783ade",
+        "android_client_info": {
+          "package_name": "com.mycompany.riser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80648292475-ti30io58qovta0s38jni3l1scqo2a032.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.riser",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "80648292475-86t86bhuv1qj99irjkoj8t52faltkram.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCukTI6dMuf-z36ocRXer6Lk3c5NUCj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80648292475-86t86bhuv1qj99irjkoj8t52faltkram.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80648292475-vbk4ehimp6ee7j7hu0fhes09sg4emkkm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.riser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
