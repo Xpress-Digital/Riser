@@ -24,7 +24,7 @@
   - [⚠️ **Known Limitations and Future Enhancements**](#️-known-limitations-and-future-enhancements)
   - [📜 **License**](#-license)
   - [📬 **Contact**](#-contact)
-    - [**Additional Resources**](#additional-resources)
+  - [📚 **Additional Resources**](#-additional-resources)
 
 ---
 
@@ -222,7 +222,7 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use a
 
 ---
 
-### **Additional Resources**
+## 📚 **Additional Resources**
 1. [Xpress Digital Technical](https://xpressdigital.org/services.html)
 2. [Flutter Documentation](https://flutter.dev/docs)
 3. [Firebase Documentation](https://firebase.google.com/docs)
